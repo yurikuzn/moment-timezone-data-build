@@ -1,6 +1,12 @@
 {
+  "name": "moment-timezone-data-build",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yurikuzn/moment-timezone-data-build.git"
+  },
   "requires": true,
-  "lockfileVersion": 1,
   "dependencies": {
     "fs": {
       "version": "0.0.1-security",
