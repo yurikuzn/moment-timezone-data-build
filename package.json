@@ -1,6 +1,6 @@
 {
   "name": "moment-timezone-data-build",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/yurikuzn/moment-timezone-data-build.git"
@@ -8,14 +8,14 @@
   "dependencies": {
     "moment-timezone": "^0.5.27"
   },
+  "scripts": {
+    "prepare": "node build"
+  },
   "bugs": {
     "url": "https://github.com/yurikuzn/moment-timezone-data-build/issues"
   },
   "homepage": "https://github.com/yurikuzn/moment-timezone-data-build#readme",
   "main": "build.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Yuri Kuznetsov",
   "license": "ISC",
   "description": ""
