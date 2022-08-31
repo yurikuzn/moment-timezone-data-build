@@ -6,7 +6,7 @@
     "url": "git://github.com/yurikuzn/moment-timezone-data-build.git"
   },
   "dependencies": {
-    "moment-timezone": "^0.5.27"
+    "moment-timezone": "^0.5.35"
   },
   "scripts": {
     "prepare": "node build"
