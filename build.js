@@ -4,7 +4,7 @@ const moment = require('./node_modules/moment/moment.js');
 const momentTimizone = require('./node_modules/moment-timezone/moment-timezone.js');
 const utils = require('./node_modules/moment-timezone/moment-timezone-utils.js');
 
-const lastYear = process.argv[2] || 2032;
+const lastYear = process.argv[2] || 2035;
 
 const targetData = moment.tz.filterLinkPack(fullData, 1970, lastYear);
 
