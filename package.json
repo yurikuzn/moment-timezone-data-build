@@ -1,6 +1,6 @@
 {
   "name": "moment-timezone-data-build",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/yurikuzn/moment-timezone-data-build.git"
